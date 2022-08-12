@@ -1,1 +1,1 @@
-# My-Data-Science-Practice
+# Mini projects for practicing my data science skills
